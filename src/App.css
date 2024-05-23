@@ -1,0 +1,35 @@
+.app-container {
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+
+.sidebar {
+  height: 900px;
+}
+
+.post-card {
+  margin: 20px 30px;
+}
+
+.badge{
+  margin: 0px 3px;
+}
+
+.reaction{
+  margin: 15px 0 0 0;
+}
+.form-page{
+  margin: 75px;
+}
+.welcome-msg{
+  margin: 100px 0;
+}
+.spinner{
+  margin: 70px;
+ 
+}
+.clock {
+  margin: 30px;
+}
